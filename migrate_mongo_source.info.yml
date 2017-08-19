@@ -1,0 +1,7 @@
+name: Migration Mongo Source
+type: module
+description: 'Awesome city migration from Mongo.'
+package: Migration
+core: 8.x
+dependencies:
+  - migrate
